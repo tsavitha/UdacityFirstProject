@@ -1,0 +1,55 @@
+.container {
+	width: 1024px;
+	margin-top: 30px;
+	padding-left: 42px;
+	padding-right: 46px;
+	font-family: Kalimati, Verdana, sans-serif;
+	font-size: 15px;
+	color: #666666;
+	line-height: 32px;
+}
+
+.fullLengthRow {
+	width: 936px;
+	margin: 0;
+}
+
+.leftCol {
+	padding-left: 0;
+	padding-right: 15px;
+}
+
+.rightCol {
+	padding-left: 16px;
+	padding-right: 14px;
+}
+
+img {
+	width: 375px;
+	height: 375px;
+	margin-top: 25px;
+}
+
+.features {
+	width: 375px;
+	margin-top: 26px;
+	padding-left: 32px;
+	border: 1px solid;
+	border-color: #CCCCCC;
+	height: 223px;
+}
+
+.features h2 {
+	padding-top: 35px;
+	margin-top: 0;
+}
+
+h2 {
+	color: #F07C17;
+	margin-bottom: 30px;
+	margin-top: 25px;
+}
+
+h1 {
+	color: #666666;
+}
